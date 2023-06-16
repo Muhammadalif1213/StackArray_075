@@ -59,4 +59,6 @@ public:
 };
 
 int main() {
+	StackArray s;
+	char ch;
 }
